@@ -1,0 +1,117 @@
+Description,Frequency
+Channel 00 Coastguard SAR,156
+Channel 01 Ship to Shore Public & Port Ops Duplex (shore 160.650),156.05
+Channel 02 Ship to Shore Public & Port Ops Duplex (shore 160.700),156.1
+Channel 03 Ship to Shore Public & Port Ops Duplex (shore 160.750),156.15
+Channel 04 Ship to Shore Public & Port Ops Duplex (shore 160.800),156.2
+Channel 05 Ship to Shore Public & Port Ops Duplex (shore 160.850),156.25
+Channel 06 Intership Ship to Air & SAR,156.3
+Channel 07 Ship to Shore Public & Port Ops Duplex (shore 160.950),156.35
+Channel 08 Intership Working,156.4
+Channel 09 Intership & Port Ops,156.45
+Channel 1 Shore to Ship Public & Port OPS Duplex (shore 156.050),160.65
+Channel 2 Shore to Ship Public & Port OPS Duplex (shore 156.100),160.7
+Channel 3 Shore to Ship Public & Port OPS Duplex (shore 156.150),160.75
+Channel 4 Shore to Ship Public & Port OPS Duplex (shore 156.200),160.8
+Channel 5 Shore to Ship Public & Port OPS Duplex (shore 156.250),160.85
+Channel 7 Shore to Ship Public & Port OPS Duplex (shore 156.350),160.95
+Channel 10 Intership & Port Ops,156.5
+Channel 11 Port Ops,156.55
+Channel 12 Port Ops,156.6
+Channel 13 Intership Nav & Safety,156.65
+Channel 14 Port Ops,156.7
+Channel 15 Intership & Inland Waterways,156.75
+Channel 16 Distress,156.8
+Channel 17 Intership & Inland Waterways,156.85
+Channel 18 Ship to Shore Port Ops Duplex (shore 161.500),156.9
+Channel 18 Shore to Ship Port Ops Duplex (shore 156.900),161.5
+Channel 19 Ship to Shore Port Ops Duplex (shore 161.550)(CH 1019 Simplex),156.95
+Channel 19 Shore to Ship Port Ops Duplex (shore 156.950)(CH 2019 Simplex),161.55
+Channel 20 Ship to Shore Port Ops Duplex (shore 161.600)(CH 1020 Simplex),157
+Channel 20 Shore to Ship Port Ops Duplex (shore 157.000)(CH 2020 Simplex),161.6
+Channel 21 Ship to Shore Port Ops Duplex (shore 161.650),157.05
+Channel 21 Shore to Ship Port Ops Duplex (shore 157.050),161.65
+Channel 22 Ship to Shore Port Ops Duplex (shore 161.700),157.1
+Channel 22 Shore to Ship Port Ops Duplex (shore 157.100),161.7
+Channel 23 Ship to Shore Public & Coastguard Medilink Duplex (shore 161.750),157.15
+Channel 23 Shore to Ship Public & Coastguard Medilink Duplex (shore 157.150),161.75
+Channel 24 Ship to Shore Public Duplex (shore 161.800),157.2
+Channel 24 Shore to Ship Public Duplex (shore 157.200),161.8
+Channel 25 Ship to Shore Public Duplex (shore 161.850),157.25
+Channel 25 Shore to Ship Public Duplex (shore 157.250),161.85
+Channel 26 Ship to Shore Public Duplex (shore 161.900),157.3
+Channel 26 Shore to Ship Public Duplex (shore 157.300),161.9
+Channel 27 Ship to Shore Public Duplex (shore 161.950),157.35
+Channel 27 Shore to Ship Public Duplex (shore 157.350),161.95
+Channel 28 Ship to Shore Public Duplex (shore 162.000),157.4
+Channel 28 Shore to Ship Public Duplex (shore 157.400),162
+Channel 29 Private,157.45
+Channel 30 Private,157.5
+Channel 31 RNLI Launch & Recovery Training,157.55
+Channel 32 Private,157.6
+Channel 33 Private,157.65
+Channel 34 Private,157.7
+Channel 35 Private,157.75
+Channel 36 Tugs,157.8
+Channel 37 M1 Marinas & Yacht Clubs,157.85
+Channel 38 Private,157.9
+Channel 39 Private,157.95
+Channel 40 Private,158
+Channel 41 Private,158.05
+Channel 42 Private,158.1
+Channel 43 Private,158.15
+Channel 44 Private,158.2
+Channel 45 Private,158.25
+Channel 46 Private,158.3
+Channel 47 Private,158.35
+Channel 48 Private,158.4
+Channel 49 Private,158.45
+Channel 50 Coastguard Inshore Rescue,158.5
+Channel 60 Ship to Shore Public & Port Ops Duplex (Shore 160.625),156.025
+Channel 60 Shore to Ship Public & Port Ops Duplex (Shore 156.025),160.625
+Channel 61 Ship to Shore Public & Port Ops Duplex (Shore 160.675),156.075
+Channel 61 Shore to Ship Public & Port Ops Duplex (Shore 156.075),160.675
+Channel 62 Ship to Shore Public & Port Ops Duplex (Shore 160.725),156.125
+Channel 62 Shore to Ship Public & Port Ops Duplex (Shore 156.125),160.725
+Channel 63 Ship to Shore Public & Port Ops Duplex (Shore 160.775),156.175
+Channel 63 Shore to Ship Public & Port Ops Duplex (Shore 156.175),160.775
+Channel 64 Ship to Shore Public & Port Ops Duplex (Shore 160.825),156.225
+Channel 64 Shore to Ship Public & Port Ops Duplex (Shore 156.225),160.825
+Channel 65 Ship to Shore Public & Port Ops Duplex (Shore 160.875),156.275
+Channel 65 Shore to Ship Public & Port Ops Duplex (Shore 156.275),160.875
+Channel 66 Ship to Shore Public & Port Ops Duplex (Shore 160.925),156.325
+Channel 66 Shore to Ship Public & Port Ops Duplex (Shore 156.325),160.925
+Channel 67 UK Small Craft Irish SAR,156.375
+Channel 68 Port Ops,156.425
+Channel 69 Intership & Port Operations,156.475
+Channel 70 Selcal (no voice comms),156.525
+Channel 71 Port Ops,156.575
+Channel 72 Intership Working,156.625
+Channel 73 Coastguard Working,156.675
+Channel 74 Port Ops,156.725
+Channel 75 Port Ops,156.775
+Channel 76 Port Ops,156.825
+Channel 77 Intership Working,156.875
+Channel 78 Ship to Shore Public & Port Ops Duplex (shore 161.525)(CH 1078 Simplex),156.925
+Channel 78 Shore to Ship Public & Port Ops Duplex (shore 156.925)(CH 2078 Simplex),161.525
+Channel 79 Ship to Shore Port Ops Duplex (shore 161.575)(CH 1079 Simplex),156.975
+Channel 79 Shore to Ship Port Ops Duplex (shore 156.975)(CH 2079 Simplex),161.575
+Channel 80 Ship to Shore Marina and Port Ops Duplex (shore 161.625),157.025
+Channel 80 Shore to Ship Marina and Port Ops Duplex (shore 157.025),161.625
+Channel 81 Ship to Shore Public & Port Ops Duplex (shore 161.675),157.075
+Channel 81 Shore to Ship Public & Port Ops Duplex (shore 157.075),161.675
+Channel 82 Ship to Shore Public & Port Ops Duplex (shore 161.725),157.125
+Channel 82 Shore to Ship Public & Port Ops Duplex (shore 157.125),161.725
+Channel 83 Ship to Shore Public Duplex (shore 161.775),157.175
+Channel 83 Shore to Ship Public Duplex (shore 157.175),161.775
+Channel 84 Ship to Shore Public & Port Ops Duplex (shore 161.825),157.225
+Channel 84 Shore to Ship Public & Port Ops Duplex (shore 157.225),161.825
+Channel 85 Ship to Shore Public Duplex (shore 161.875),157.275
+Channel 85 Shore to Ship Public Duplex (shore 157.275),161.875
+Channel 86 Ship to Shore Public & Coastguard Medilink Duplex (shore 161.925),157.325
+Channel 86 Shore to Ship Public & Coastguard Medilink Duplex (shore 157.325),161.925
+Channel 87 Public,157.375
+Channal 87B AIS Data,161.975
+Channel 88 Public,157.425
+Channel 88B AIS Data,162.025
+Channel M2 Marinas & Yacht Clubs,161.425
