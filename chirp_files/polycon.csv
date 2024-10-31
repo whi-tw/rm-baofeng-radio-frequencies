@@ -1,0 +1,11 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,Polycon SAR,417.5,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Polycon (417-449MHz),,,,
+2,Polycon SAR Helimed,417.525,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Polycon (417-449MHz),,,,
+3,Polycon MOD,417.575,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Polycon (417-449MHz),,,,
+4,Polycon Coastguard,419.1125,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Polycon (417-449MHz),,,,
+5,Polycon Coastguard,419.1375,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Polycon (417-449MHz),,,,
+6,Polycon Onboard Comms,419.1875,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Polycon (417-449MHz),,,,
+7,Polycon SAR,419.5875,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Polycon (417-449MHz),,,,
+8,Polycon SAR RAF,449.5375,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Polycon (417-449MHz),,,,
+9,Polycon SAR Navy,449.6875,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Polycon (417-449MHz),,,,
+10,Polycon SAR RAF,449.7375,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Polycon (417-449MHz),,,,

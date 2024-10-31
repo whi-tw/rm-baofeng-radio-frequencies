@@ -1,0 +1,11 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,Fireground: Service Defined,450.1,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Fireground (450-464MHz,,,,
+2,Fireground: General Incident,457.0375,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Fireground (450-464MHz,,,,
+3,Fireground: Portable Repeaters,457.0875,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Fireground (450-464MHz,,,,
+4,Fireground: Fixed Site Repeaters,457.1375,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Fireground (450-464MHz,,,,
+5,Fireground: Command Support,457.1875,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Fireground (450-464MHz,,,,
+6,Fireground: BA Sector,457.2375,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Fireground (450-464MHz,,,,
+7,Fireground: BA Communications,457.4875,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Fireground (450-464MHz,,,,
+8,Fireground: Portable Repeaters,462.5875,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Fireground (450-464MHz,,,,
+9,Fireground: Fixed Site Repeaters,462.6375,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Fireground (450-464MHz,,,,
+10,Fireground: Incident Defined,464.1,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Fireground (450-464MHz,,,,

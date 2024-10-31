@@ -1,0 +1,66 @@
+{
+  "2m_amateur_band": {
+    "comment": "2M Amateur Band (145MHz)"
+  },
+  "70_cm_amateur_band": {
+    "comment": "70cm Amateur Band (430-440MHz)"
+  },
+  "airports": {
+    "comment": "UHF Airport Uplinks (455-456MHz)",
+    "name_format": "{ICAO} ({AIRPORT}) {SERVICE}"
+  },
+  "baofeng_test_frequencies": {
+    "comment": "Baofeng Test Frequencies (462-469MHz)",
+    "name_format": "Baofeng Test {Name}"
+  },
+  "brazillian_satcom_pirates": {
+    "comment": "Brazilian Satcom Pirates (250-270MHz)",
+    "name_format": "SATCOM PIRATE {Index}"
+  },
+  "family_radio_service": {
+    "comment": "Family Radio Service (462-467MHz)",
+    "name_format": "FRS {Name}"
+  },
+  "fireground": {
+    "comment": "Fireground (450-464MHz",
+    "name_format": "Fireground: {Name}"
+  },
+  "general_mobile_radio_service": {
+    "comment": "General Mobile Radio Service (467MHz)",
+    "name_format": "GMRS {Name}"
+  },
+  "marine_uhf": {
+    "comment": "Marine UHF (457-467MHz)",
+    "name_format": "Marine {Name}"
+  },
+  "marine_vhf": {
+    "comment": "Marine VHF (156-162MHz)",
+    "name_format": "Marine VHF {Name}"
+  },
+  "multi_use_radio_service": {
+    "comment": "Multi-Use Radio Service (151-154MHz)",
+    "name_format": "MURS {Name}"
+  },
+  "pmr446": {
+    "comment": "PMR446 (446MHz)",
+    "name_format": "PMR446 {Name}"
+  },
+  "polycon": {
+    "comment": "Polycon (417-449MHz)",
+    "name_format": "Polycon {Name}"
+  },
+  "programme_making_&_special_events": {
+    "comment": "Programme Making & Special Events (446-468MHz)"
+  },
+  "simple_site_business": {
+    "comment": "Simple Site Business (159-459MHz)",
+    "name_format": "Simple Site (Business): {Name}"
+  },
+  "simple_uk_light": {
+    "comment": "Simple UK Light (164-458MHz)"
+  },
+  "suppliers_light": {
+    "comment": "Suppliers Light (158-462MHz)",
+    "name_format": "Suppliers Light: {Name}"
+  }
+}

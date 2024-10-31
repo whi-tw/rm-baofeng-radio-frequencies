@@ -1,0 +1,9 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,GMRS Channel 1,467.55,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,General Mobile Radio Service (467MHz),,,,
+2,GMRS Channel 2,467.575,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,General Mobile Radio Service (467MHz),,,,
+3,GMRS Channel 3,467.6,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,General Mobile Radio Service (467MHz),,,,
+4,GMRS Channel 4,467.625,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,General Mobile Radio Service (467MHz),,,,
+5,GMRS Channel 5,467.65,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,General Mobile Radio Service (467MHz),,,,
+6,GMRS Channel 6,467.675,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,General Mobile Radio Service (467MHz),,,,
+7,GMRS Channel 7,467.7,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,General Mobile Radio Service (467MHz),,,,
+8,GMRS Channel 8,467.725,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,General Mobile Radio Service (467MHz),,,,

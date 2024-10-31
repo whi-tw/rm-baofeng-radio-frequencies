@@ -1,0 +1,6 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,MURS Channel 1,151.82,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Multi-Use Radio Service (151-154MHz),,,,
+2,MURS Channel 2,151.88,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Multi-Use Radio Service (151-154MHz),,,,
+3,MURS Channel 3,151.94,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Multi-Use Radio Service (151-154MHz),,,,
+4,MURS Channel 4,154.57,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Multi-Use Radio Service (151-154MHz),,,,
+5,MURS Channel 5,154.6,,0.0,,88.5,88.5,023,NN,023,Tone->Tone,NFM,12.5,,4.0W,Multi-Use Radio Service (151-154MHz),,,,
